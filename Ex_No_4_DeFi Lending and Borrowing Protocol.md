@@ -17,7 +17,7 @@ To build a decentralized lending protocol where users can deposit assets to earn
 
 6.If the collateral value drops below the threshold, liquidators can repay the debt and claim the borrower's collateral at a discounted rate.
 ## Program:
-```
+```py
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
